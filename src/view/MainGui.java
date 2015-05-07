@@ -17,7 +17,7 @@ public class MainGui extends JFrame {
 	public MainGui() {
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setLocation(150, 100);
-		setTitle("Airport charges");
+		setTitle("FCAT");
 		setSize(1600, 850);
 		setLayout(new BorderLayout());
 		setResizable(true);
